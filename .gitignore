@@ -1,0 +1,6 @@
+.metadata/
+*.class
+bin/
+target/
+out/
+.DS_Store
